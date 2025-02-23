@@ -9,7 +9,7 @@ The American Red Cross is a non-profit organization that focuses on blood donati
   - SQL Alchemy
  
 ## Project Outcomes
-* Project Report
+* [Project Report](https://github.com/kcurro1/American-Red-Cross-Database/blob/main/ARC%20Database%20Report.pdf)
 * Project Code
   - [SQL Table Creation](https://github.com/kcurro1/American-Red-Cross-Database/blob/main/SQL%20Database%20Creation.sql)
   - [SQL Queries](https://github.com/kcurro1/American-Red-Cross-Database/blob/main/ARC%20SQL%20Queries.sql)
